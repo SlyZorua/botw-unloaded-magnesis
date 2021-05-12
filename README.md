@@ -6,5 +6,5 @@ A few aims of this project:
 * Allow the BotW speedrunning community to understand unloaded Magnesis Shrine, providing a "baseline" for future research to determine whether manipulation is possible.
 
 Using this repository:
-* To view the data: Click "df_clean.csv" above
-* To view the code: Click "final_notebook.ipynb" above
+* To view the data: Click `df_clean.csv` above
+* To view the code: Click `final_notebook.ipynb` above
